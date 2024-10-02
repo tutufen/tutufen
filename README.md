@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tutufen
-- 👀 I’m interested in opensource
+- About Me: https://tutufen.cc/about
 
 <!---
 tutufen/tutufen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
